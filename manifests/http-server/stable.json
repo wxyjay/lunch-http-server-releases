@@ -1,29 +1,29 @@
 {
   "project": "http-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "channel": "stable",
-  "tag": "http-server-v0.1.0",
-  "commit": "f8d6fd72f7be10d5d5d246682464266ea91b8e68",
+  "tag": "http-server-v0.1.1",
+  "commit": "ba2d9241aebc1a24c32158230b9ede2205fac0a9",
   "encryption": {
     "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
     "passwordHint": "server-local release password"
   },
   "assets": [
     {
-      "name": "HttpServerBackend-0.1.0-linux-aarch64.sha256",
-      "sha256": "5a8bf6f6bacfb3f00425ee34397d285a3c0253056626c956a2e4343b38256fac"
+      "name": "HttpServerBackend-0.1.1-linux-aarch64.sha256",
+      "sha256": "82a4d1329e14cb0e0e20ff0a403843a4334da91477d06787f19a589cdd1d0474"
     },
     {
-      "name": "HttpServerBackend-0.1.0-linux-aarch64.tar.gz.enc",
-      "sha256": "786ef34f3a12cf5c8bb38ad23ceb99a5bdb59d520b7d715d7eaa2f3aec79c3b3"
+      "name": "HttpServerBackend-0.1.1-linux-aarch64.tar.gz.enc",
+      "sha256": "60997e8194c9238498141862dcbd2c7dc50ae6cd491cce2c40d37188b049eb8a"
     },
     {
-      "name": "HttpServerBackend-0.1.0-linux-amd64.sha256",
-      "sha256": "11c1cb02dbf8ff376e064f6e8ec28fe20a764a7bb43da6d158643d390aaf43a5"
+      "name": "HttpServerBackend-0.1.1-linux-amd64.sha256",
+      "sha256": "c391ba68bdf259ba84c63ffeb8fcc7d02f5566d7af592e97439e7a4fca75ec8a"
     },
     {
-      "name": "HttpServerBackend-0.1.0-linux-amd64.tar.gz.enc",
-      "sha256": "dd11eec263c67325c70a22026b06c96598aef251d56622d06ef833635e1a889d"
+      "name": "HttpServerBackend-0.1.1-linux-amd64.tar.gz.enc",
+      "sha256": "eb6c65588dc7185276677619f33efe3deaf149476117b469442d880d1b70d0f6"
     }
   ]
 }\n
