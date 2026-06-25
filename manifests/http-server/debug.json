@@ -1,0 +1,12 @@
+{
+  "project": "http-server",
+  "version": "0.1.0",
+  "channel": "debug",
+  "tag": "http-server-debug-v0.1.0",
+  "commit": "",
+  "encryption": {
+    "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
+    "passwordHint": "stored locally in .release-password"
+  },
+  "assets": []
+}

@@ -1,0 +1,14 @@
+.DS_Store
+README*
+*.tmp
+*.log
+artifacts/
+downloads/
+*.tar.gz
+*.tar.gz.enc
+*.sha256
+
+# 本地发布/安装密码，不允许提交。
+.release-password
+.release-password.*
+.release-cache/
