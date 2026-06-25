@@ -3,10 +3,27 @@
   "version": "0.1.0",
   "channel": "stable",
   "tag": "http-server-v0.1.0",
-  "commit": "",
+  "commit": "f8d6fd72f7be10d5d5d246682464266ea91b8e68",
   "encryption": {
     "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
-    "passwordHint": "stored locally in .release-password"
+    "passwordHint": "server-local release password"
   },
-  "assets": []
-}
+  "assets": [
+    {
+      "name": "HttpServerBackend-0.1.0-linux-aarch64.sha256",
+      "sha256": "5a8bf6f6bacfb3f00425ee34397d285a3c0253056626c956a2e4343b38256fac"
+    },
+    {
+      "name": "HttpServerBackend-0.1.0-linux-aarch64.tar.gz.enc",
+      "sha256": "786ef34f3a12cf5c8bb38ad23ceb99a5bdb59d520b7d715d7eaa2f3aec79c3b3"
+    },
+    {
+      "name": "HttpServerBackend-0.1.0-linux-amd64.sha256",
+      "sha256": "11c1cb02dbf8ff376e064f6e8ec28fe20a764a7bb43da6d158643d390aaf43a5"
+    },
+    {
+      "name": "HttpServerBackend-0.1.0-linux-amd64.tar.gz.enc",
+      "sha256": "dd11eec263c67325c70a22026b06c96598aef251d56622d06ef833635e1a889d"
+    }
+  ]
+}\n
