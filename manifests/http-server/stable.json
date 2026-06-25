@@ -1,26 +1,26 @@
 {
   "project": "http-server",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "channel": "stable",
-  "tag": "http-server-v0.1.2",
-  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-v0.1.2",
-  "commit": "22fd562891ae19ddcaecade1adf8c796c2841c90",
+  "tag": "http-server-v0.1.3",
+  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-v0.1.3",
+  "commit": "adf35203ed6d5736251f619fcf0545e39355ac36",
   "encryption": {
     "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
     "passwordHint": "server-local release password"
   },
   "assets": [
     {
-      "name": "HttpServerBackend-0.1.2-linux-aarch64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.1.2/HttpServerBackend-0.1.2-linux-aarch64.tar.gz.enc",
-      "sha256": "c17e73f72580ea2800ea0b72f96b1ac5c7b22ab4813fbcaa878c88380d82a550",
-      "sizeBytes": 48292304
+      "name": "HttpServerBackend-0.1.3-linux-aarch64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.1.3/HttpServerBackend-0.1.3-linux-aarch64.tar.gz.enc",
+      "sha256": "3c5ecb0dafa817329f6dd9a554929882384151093ef95286ec98da946257133d",
+      "sizeBytes": 48340096
     },
     {
-      "name": "HttpServerBackend-0.1.2-linux-amd64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.1.2/HttpServerBackend-0.1.2-linux-amd64.tar.gz.enc",
-      "sha256": "3ccd3a1c133a8fb396524277404bbdf2641a06e933a483bb32488030aaa38e68",
-      "sizeBytes": 49420368
+      "name": "HttpServerBackend-0.1.3-linux-amd64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.1.3/HttpServerBackend-0.1.3-linux-amd64.tar.gz.enc",
+      "sha256": "0c40f0f8f4cb6c473a9ca8d24005c159ce51f2d7e7feff31b31608290e8acc9e",
+      "sizeBytes": 49479008
     }
   ]
-}\n
+}
