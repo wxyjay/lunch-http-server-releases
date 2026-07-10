@@ -1,26 +1,26 @@
 {
   "project": "http-server",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "channel": "stable",
-  "tag": "http-server-v0.2.3",
-  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-v0.2.3",
-  "commit": "0daecc27cf0826a5af8366d8cd0e3683632efa7a",
+  "tag": "http-server-v0.2.4",
+  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-v0.2.4",
+  "commit": "4373c56a2aa7975266983fb6245394bc4007ac72",
   "encryption": {
     "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
     "passwordHint": "server-local release password"
   },
   "assets": [
     {
-      "name": "HttpServerBackend-0.2.3-linux-aarch64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.3/HttpServerBackend-0.2.3-linux-aarch64.tar.gz.enc",
-      "sha256": "7b3502d129a51ab84b19638248dd3d9b1529fa923415ce771e296f5af1874383",
-      "sizeBytes": 51098912
+      "name": "HttpServerBackend-0.2.4-linux-aarch64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.4/HttpServerBackend-0.2.4-linux-aarch64.tar.gz.enc",
+      "sha256": "6925a4dbe4562b5f7573024297d6413526b73cde64bae720c4f0f74eebe4101b",
+      "sizeBytes": 51126736
     },
     {
-      "name": "HttpServerBackend-0.2.3-linux-amd64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.3/HttpServerBackend-0.2.3-linux-amd64.tar.gz.enc",
-      "sha256": "92c403f5845beea095c5804d6c4869788476e2432e0f8a2ce988060afa8459a8",
-      "sizeBytes": 52245728
+      "name": "HttpServerBackend-0.2.4-linux-amd64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.4/HttpServerBackend-0.2.4-linux-amd64.tar.gz.enc",
+      "sha256": "ad3ec57375a5edbf4003eb3be59c0c09e60b894bb959ad32952d4fde763cee64",
+      "sizeBytes": 52272832
     }
   ]
 }
