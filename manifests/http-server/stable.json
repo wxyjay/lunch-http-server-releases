@@ -1,26 +1,26 @@
 {
   "project": "http-server",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "channel": "stable",
-  "tag": "http-server-v0.2.6",
-  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-v0.2.6",
-  "commit": "be669cc264646bb7d1a4b48a3783c6ebd3c27f9a",
+  "tag": "http-server-v0.2.7",
+  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-v0.2.7",
+  "commit": "c648c8a88497e6e246955a78883616711fccff20",
   "encryption": {
     "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
     "passwordHint": "server-local release password"
   },
   "assets": [
     {
-      "name": "HttpServerBackend-0.2.6-linux-aarch64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.6/HttpServerBackend-0.2.6-linux-aarch64.tar.gz.enc",
-      "sha256": "d36151bfcd12216f88b8adda582d2bc9f097f4aefe9b55727fa79c82c690bfed",
-      "sizeBytes": 51138848
+      "name": "HttpServerBackend-0.2.7-linux-aarch64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.7/HttpServerBackend-0.2.7-linux-aarch64.tar.gz.enc",
+      "sha256": "34ffdf88d440bf553fd6e066e4f105ae8be4fd177b3fee40e7d15a20e9c29052",
+      "sizeBytes": 51139248
     },
     {
-      "name": "HttpServerBackend-0.2.6-linux-amd64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.6/HttpServerBackend-0.2.6-linux-amd64.tar.gz.enc",
-      "sha256": "c0f37c81348ce70ee38490fff18b9a3f10e9e774c064bcdebcecc4d256bdd990",
-      "sizeBytes": 52290352
+      "name": "HttpServerBackend-0.2.7-linux-amd64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-v0.2.7/HttpServerBackend-0.2.7-linux-amd64.tar.gz.enc",
+      "sha256": "66aa90926b49d13c0c4fcc6f8a5d159f90fb6d3d9977f019982ad77157f4fdb8",
+      "sizeBytes": 52285168
     }
   ]
 }
