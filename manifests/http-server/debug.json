@@ -1,12 +1,26 @@
 {
   "project": "http-server",
-  "version": "0.1.0",
+  "version": "0.2.8",
   "channel": "debug",
-  "tag": "http-server-debug-v0.1.0",
-  "commit": "",
+  "tag": "http-server-debug-v0.2.8",
+  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-debug-v0.2.8",
+  "commit": "44ff8efa8699b29a5f42a11a70f15345499f9fdd",
   "encryption": {
     "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
-    "passwordHint": "stored locally in .release-password"
+    "passwordHint": "server-local release password"
   },
-  "assets": []
+  "assets": [
+    {
+      "name": "HttpServerBackend-0.2.8-linux-aarch64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-debug-v0.2.8/HttpServerBackend-0.2.8-linux-aarch64.tar.gz.enc",
+      "sha256": "c499dcfe75c0cfa0daea8ba716936b58f78dd5f116abd563f10210daf5235a19",
+      "sizeBytes": 58676896
+    },
+    {
+      "name": "HttpServerBackend-0.2.8-linux-amd64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-debug-v0.2.8/HttpServerBackend-0.2.8-linux-amd64.tar.gz.enc",
+      "sha256": "4ac3efcb819ffb37aebc9c3a23b0e6cd897de1d20d60035c89b66e0c765a1fd5",
+      "sizeBytes": 59507360
+    }
+  ]
 }
