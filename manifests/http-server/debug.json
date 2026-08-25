@@ -1,26 +1,26 @@
 {
   "project": "http-server",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "channel": "debug",
-  "tag": "http-server-debug-v0.2.9",
-  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-debug-v0.2.9",
-  "commit": "300eab1d77c74024c3d54436f9d3b6a4646a3a26",
+  "tag": "http-server-debug-v0.3.0",
+  "releaseUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/tag/http-server-debug-v0.3.0",
+  "commit": "e86b5756d7cc5b0b209fdfe83d1abbbcd63ff0a6",
   "encryption": {
     "algorithm": "openssl-aes-256-cbc-pbkdf2-sha256",
     "passwordHint": "server-local release password"
   },
   "assets": [
     {
-      "name": "HttpServerBackend-0.2.9-linux-aarch64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-debug-v0.2.9/HttpServerBackend-0.2.9-linux-aarch64.tar.gz.enc",
-      "sha256": "dfadfb6cbf7f97df189637ab0e2c017baf8e052b9b13ad86e900eb3cb85e196a",
-      "sizeBytes": 59138384
+      "name": "HttpServerBackend-0.3.0-linux-aarch64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-debug-v0.3.0/HttpServerBackend-0.3.0-linux-aarch64.tar.gz.enc",
+      "sha256": "36f137aa4a6fe010151f71023206011ed304840a0cd3db82928a2a556e204fb3",
+      "sizeBytes": 59140160
     },
     {
-      "name": "HttpServerBackend-0.2.9-linux-amd64.tar.gz.enc",
-      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-debug-v0.2.9/HttpServerBackend-0.2.9-linux-amd64.tar.gz.enc",
-      "sha256": "d7654355b7c6ad637114b63cf4b6a4fc2220e5812a4b580ce1747bbc2fe84bd5",
-      "sizeBytes": 59991728
+      "name": "HttpServerBackend-0.3.0-linux-amd64.tar.gz.enc",
+      "downloadUrl": "https://github.com/wxyjay/lunch-http-server-releases/releases/download/http-server-debug-v0.3.0/HttpServerBackend-0.3.0-linux-amd64.tar.gz.enc",
+      "sha256": "2e1878c25b1b3f860013100d967813a1b3174a65a19fd197b7013d9161233a2d",
+      "sizeBytes": 59990400
     }
   ]
 }
